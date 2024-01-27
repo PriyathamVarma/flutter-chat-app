@@ -5,11 +5,7 @@ import 'package:chat/src/screens/auth.dart';
 // import 'firebase_options.dart';
 
 void main() async {
-  // WidgetsFlutterBinding.ensureInitialized();
-  // await Firebase.initializeApp(
-  //   options: DefaultFirebaseOptions.currentPlatform,
-  // );
-  // await dotenv.load();
+  
 
   runApp(const MyApp());
 }
